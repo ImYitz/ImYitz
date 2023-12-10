@@ -1,18 +1,27 @@
-### Hi there 👋
+# ImYitz GITHUB
 
-<!--
-**ImYitz/ImYitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¿Quién soy?
+> ------------------------------------------------------------------------------------
+> Soy un aprendiz autodidacta que está empezando en el mundo de la programación.
+> Estoy interesado en el desarrollo web con enfoque en FrontEnd.
+> Más adelante también me gustaría aprender sobre BackEnd.
+> 
+> ------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+# Lenguajes y tecnologías que estoy aprendiendo
+> ------------------------------------------------------------------------------------
+> - GIT y GITHUB
+> - HTML
+> - CSS
+> - JavaScript
+>
+> -----------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contacto
+Actualmente tengo Discord como contacto principal: imyitz.
 
-Hola a todos esta es mi presentación, soy nuevo en esto de GIT y GITHUB, estoy aprendiendo de ello.
+# ¿Por qué contactarme?
+Puedes contactarme si también estás aprendiendo como yo para que podamos ayudarnos entre nosotros y crear proyectos. También si quieres hacer algo con mis proyectos puedes hacerlo, probablemente serán buenas cosas.
+
+## Muchas gracias por leer.
+##### Actualizaré este perfil a medida que vaya aprendiendo nuevas cosas.
