@@ -3,8 +3,7 @@
 # ¿Quién soy?
 > ------------------------------------------------------------------------------------
 > Soy un aprendiz autodidacta que está empezando en el mundo de la programación.
-> Estoy interesado en el desarrollo web con enfoque en FrontEnd.
-> Más adelante también me gustaría aprender sobre BackEnd.
+> Estoy interesado en el desarrollo de inteligencia artificial y desarrollo de software y/o aplicaciones.
 > 
 > ------------------------------------------------------------------------------------
 
